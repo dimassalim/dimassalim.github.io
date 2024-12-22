@@ -1,0 +1,4 @@
+baseURL = 'https://dimassalim.github.io/'
+languageCode = 'en-us'
+title = 'Dimas Salim'
+theme = 'ananke'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Dec 2024 17:41:41 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The increasing need for a more accurate global positioning system</title>
+      <link>//localhost:1313/posts/geo1/</link>
+      <pubDate>Sun, 22 Dec 2024 17:41:41 +0700</pubDate>
+      <guid>//localhost:1313/posts/geo1/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;From surveying to robotics, RTK has been a major player in precise GNSS positioning. For many years, GPS has been giving us up to two meters precision, precise enough to locate our general location, but when it comes to professional job, meters precision just doesn&amp;rsquo;t cut it.&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s when RTK comes in, RTK allow us to get up to millimeters precision, just enough for most jobs that requires precise global positioning coordinate. But, how is it able to give us that much precision when the best GPS can do was 2 meters? That&amp;rsquo;s what we&amp;rsquo;re going to discuss here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
